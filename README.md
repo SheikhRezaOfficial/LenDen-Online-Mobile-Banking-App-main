@@ -2,7 +2,7 @@
 
 LenDen is a **mobile banking web application** designed to provide seamless online banking services for users. It offers features like account management, balance checks, funds transfer, transaction history, and more—all from the convenience of your device.
 
-![LenDen Logo](https://github.com/Anikalfa/LenDen-Online-Mobile-Banking-App/blob/main/LenDen_project/images/cover.jpg) <!-- Replace with your logo image -->
+![LenDen Logo](https://github.com/SheikhRezaOfficial/LenDen-Online-Mobile-Banking-App-main/blob/main/LenDen-Online-Mobile-Banking-App-main/LenDen_project/images/cover.jpg) <!-- Replace with your logo image -->
 
 ## 🚀 **Features**
 
